@@ -53,8 +53,8 @@ export default function FindUs() {
 
               {/* Social Icons */}
               <div className="flex space-x-4 mt-4 text-gray-500 text-2xl">
-                <a href="#" className="hover:text-[#2f2484]"><FaInstagram /></a>
-                <a href="#" className="hover:text-[#2f2484]"><FaFacebook /></a>
+                <a href="https://www.instagram.com/galaxymultigym/?hl=en" className="hover:text-[#2f2484]"><FaInstagram /></a>
+                <a href="https://www.facebook.com/galaxymultigymcob/" className="hover:text-[#2f2484]"><FaFacebook /></a>
                 {/* <a href="https://www.linkedin.com/company/vajjiram" className="hover:text-[#2f2484]"><FaLinkedin /></a> */}
               </div>
             </div>

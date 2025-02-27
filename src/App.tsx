@@ -1,20 +1,12 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "@/scenes/home";
-
 import PrivacyPolicy from "./scenes/Privacy/PrivacyPolicy";
 import TermsConditions from "./scenes/Terms/TermsConditions";
-
-
 import Layout from "./scenes/LayOut";
-
-
-
-
 import MainContact from "./scenes/ContactUs/MainContact";
 import MainAbout from "./scenes/About/MainAbout";
 import MainFaqs from "./scenes/Faqs/MainFaqs";
 import MainClass from "./scenes/ourClasses/MainClass";
-
 import Features from "./scenes/Fearures/Features";
 import EquipmentPage from "./scenes/Eqipments/Eqipments";
 import Membership from "./scenes/Memberships/Memberships";

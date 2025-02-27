@@ -14,9 +14,7 @@ import MainContact from "./scenes/ContactUs/MainContact";
 import MainAbout from "./scenes/About/MainAbout";
 import MainFaqs from "./scenes/Faqs/MainFaqs";
 import MainClass from "./scenes/ourClasses/MainClass";
-import CertifiedTrainers from "./scenes/Triner/CertifiedTrainer";
-import PersonalTrainer from "./scenes/Triner/PersonalTrainer";
-import YogaAndZumba from "./scenes/Triner/YogaZumba";
+
 import Features from "./scenes/Fearures/Features";
 import EquipmentPage from "./scenes/Eqipments/Eqipments";
 import Membership from "./scenes/Memberships/Memberships";
